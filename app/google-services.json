@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393650748655",
+    "project_id": "signin-477ca",
+    "storage_bucket": "signin-477ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393650748655:android:6f2d646ceb4fae87ee2f1a",
+        "android_client_info": {
+          "package_name": "com.mahmoudhesham.signinsignupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393650748655-1ddduebj6rqhdk1ls1679o95f5rbvr1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNbnoJwGkZq0PRoZjV2xv_96cuobS7qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393650748655-1ddduebj6rqhdk1ls1679o95f5rbvr1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
